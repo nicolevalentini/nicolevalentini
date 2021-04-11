@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nicolevalentini
+- 👋 Hi, I’m @nikvalentini
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning Python and Arduino
 - 💞️ I’m looking to collaborate on interesting and original projects
